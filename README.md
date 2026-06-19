@@ -11,4 +11,4 @@ Componentes:
 - Servo SG90
 - Sensor IR
 
-Repositorio del Grupo 5.
+Repositorio del Grupo 9.
